@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Secrets / credentials
+.env
+*.key
+*.pem
+*.pfx
+*.cer
+
+# Azure / local configuration
+.azure/
